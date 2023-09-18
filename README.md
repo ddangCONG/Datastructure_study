@@ -39,3 +39,4 @@
 # 파일명 작성 규칙
 - 파일 업로드 시, 파일 뒤에 이름을 이니셜로 붙일 것
 - ex) week01_timecomplexity_ksm.py
+- 
